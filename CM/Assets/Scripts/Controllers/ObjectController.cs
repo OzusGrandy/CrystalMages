@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace CrystalMages
 {
-    public abstract class Controller
+    public sealed class ObjectController : Controller
     {
 
     }

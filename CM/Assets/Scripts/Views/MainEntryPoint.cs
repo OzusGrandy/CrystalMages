@@ -2,15 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MainEntryPoint : MonoBehaviour
+namespace CrystalMages
 {
-    void Start()
+    public class MainEntryPoint : MonoBehaviour
     {
-        
-    }
+        void Start()
+        {
 
-    void Update()
-    {
-        
+        }
+
+        void Update()
+        {
+
+        }
     }
 }

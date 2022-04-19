@@ -4,8 +4,9 @@ using UnityEngine;
 
 namespace CrystalMages
 {
-    public abstract class Controller
+    public struct UnitStats
     {
 
     }
 }
+
